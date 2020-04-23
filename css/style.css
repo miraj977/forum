@@ -1,0 +1,19 @@
+body{
+	background-color: #333;
+	
+}
+.page-wrapper{
+width: 900px;	
+margin:5% auto;
+padding: 15px;
+background-color:white;
+box-shadow: 1px 1px 1px 1px black;
+}
+.bodycontainer{
+	 margin:8% auto;
+	 width:auto;
+	 padding: 0% 10%;
+}
+
+
+
